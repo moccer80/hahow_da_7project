@@ -8,13 +8,12 @@
 conda env create -f environment.yml 
 ```
 
-3. 將 data/ 資料夾中的四個 CSV 檔案放置於工作目錄中。  
+3. 將資料夾中的四個 CSV 檔案放置於工作目錄中。  
 
 4. 啟動環境並執行以下命令：  
 ```bash
 python create_gapminder_db.py
 ```
-即可在 data/ 資料夾中建立 gapminder.db。
 
 5. 再次啟動環境並執行以下命令：  
 ```bash

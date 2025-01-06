@@ -8,7 +8,7 @@
 conda env create -f environment.yml 
 ```
 
-3. 將 data/ 資料夾中的四個 CSV 檔案放置於工作目錄中的 data/ 資料夾中。  
+3. 將 data/ 資料夾中的四個 CSV 檔案放置於工作目錄中。  
 
 4. 啟動環境並執行以下命令：  
 ```bash
